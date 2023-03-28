@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-185-blue)
 
@@ -80,7 +80,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/robjsnow/robjsnow/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2023 14:42:10 UTC
+ Last Updated on 28/03/2023 14:56:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
