@@ -2,7 +2,7 @@
 
 ### Hi there 👋 Welcome to my GitHub Portfolio.
 #### I am currently available for hire!  :briefcase:
-[<img alt="alt_text" src="images/image.PNG" />]
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-197-blue)
 
