@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-185-blue)
 
@@ -54,9 +54,9 @@ Git Config               0 secs              ░░░░░░░░░░░�
 VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Day 3                    1 hr 12 mins        ████████████░░░░░░░░░░░░░   46.26 % 
-News                     50 mins             ████████░░░░░░░░░░░░░░░░░   32.43 % 
-capstone_news            26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Chicken Life             1 hr 12 mins        ████████████░░░░░░░░░░░░░   46.26 % 
+News App                 50 mins             ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Old Project              26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 💻 Operating System: 
@@ -80,7 +80,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/robjsnow/robjsnow/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2023 14:56:46 UTC
+ Last Updated on 28/03/2023 15:02:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
