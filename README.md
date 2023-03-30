@@ -3,6 +3,12 @@
 ### Hi there 👋 Welcome to my GitHub Portfolio.
 #### I am currently available for hire!  :briefcase:
 
+#### Showcase Projects:
+
+1. **NewsFusion** [Live Demo](https://news-1-f7223358.deta.app/) - A news site project I made.\
+Skills demonstrated: *MongoDB, Express, Bootstrap\
+AWS, JavaScript, HTML, CSS, EJS and NodeJS*
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-311-blue)
 
