@@ -10,7 +10,7 @@ Skills demonstrated: *MongoDB, Express, Bootstrap\
 AWS, JavaScript, HTML, CSS, EJS and NodeJS*
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,7 +34,7 @@ Linux                    4 hrs 3 mins        ███████████�
 ```
 
 
- Last Updated on 29/04/2023 10:15:11 UTC
+ Last Updated on 29/04/2023 18:32:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
