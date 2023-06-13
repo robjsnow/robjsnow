@@ -16,20 +16,20 @@ AWS, JavaScript, HTML, CSS, EJS and NodeJS*
 
 ```text
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mur-site-frontend        0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/06/2023 18:33:03 UTC
+ Last Updated on 13/06/2023 18:32:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
