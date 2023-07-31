@@ -8,7 +8,7 @@
 Under construction, I will add projects here soon.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,7 +36,7 @@ Windows                  9 hrs 26 mins       ███████████�
 ```
 
 
- Last Updated on 31/07/2023 11:12:16 UTC
+ Last Updated on 31/07/2023 18:32:28 UTC
 <!--END_SECTION:waka-->
 
 <!--
