@@ -14,20 +14,20 @@ Under construction, I will add projects here soon.
 
 ```text
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-forging-dreams           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/08/2023 18:32:48 UTC
+ Last Updated on 29/08/2023 18:32:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
