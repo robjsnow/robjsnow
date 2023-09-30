@@ -1,7 +1,7 @@
 <img alt="myname" src="assets/name.png" />
 
 ### Hi there 👋 Welcome to my GitHub Portfolio.
-#### If you're interested in collaboration or other inquiries, reach out to me!  robjsnow@gmail.com  :briefcase:
+If you're interested in collaboration or other inquiries, reach out to me!  robjsnow@gmail.com  :briefcase:
 
 #### Showcase Projects:
 
