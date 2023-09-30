@@ -1,11 +1,11 @@
 <img alt="myname" src="assets/name.png" />
 
 ### Hi there 👋 Welcome to my GitHub Portfolio.
-#### I am currently available for hire!  :briefcase:
+#### If you're interested in collaboration or other inquiries, reach out to me!  robjsnow@gmail.com  :briefcase:
 
 #### Showcase Projects:
 
-Under construction, I will add projects here soon.
+Under construction, I will add my projects here soon.
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
