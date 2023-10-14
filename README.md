@@ -8,7 +8,7 @@ If you're interested in collaboration or other inquiries, reach out to me!  robj
 Under construction, I will add my projects here soon.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,7 +33,7 @@ Windows                  5 hrs 23 mins       ███████████�
 ```
 
 
- Last Updated on 13/10/2023 18:34:35 UTC
+ Last Updated on 14/10/2023 18:32:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
