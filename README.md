@@ -59,8 +59,7 @@ Here are some ideas to get you started:
 </a>
 
 
-**Project Name:** Aliens Vs Robots
+**Project Name:** Aliens Vs Robots  
 **Live Demo:** [Here](https://yellow-water-02e94ce10.4.azurestaticapps.net/)  
-**Source Code:** [Here](https://github.com/robjsnow/avr/)
-
+**Source Code:** [Here](https://github.com/robjsnow/avr/)  
 **Description:** This project is a React remake of a game designed by my wife, now optimized for mobile to entertain our 5-year-old. Hosted on Azure for seamless access.
