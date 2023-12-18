@@ -5,7 +5,12 @@ If you're interested in collaboration or other inquiries, reach out to me!  robj
 
 #### Showcase Projects:
 
-Under construction, I will add my projects here soon.
+# Alien vs Robots
+
+Check out the game [Alien vs Robots](https://yellow-water-02e94ce10.4.azurestaticapps.net/)
+
+This project is a React remake of a game designed by my wife, now optimized for mobile to entertain our 5-year-old. Hosted on Azure for seamless access.
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
