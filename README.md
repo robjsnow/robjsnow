@@ -1,10 +1,10 @@
 <img alt="myname" src="assets/name.png" />
 
 ### Hi there 👋 Welcome to my GitHub Portfolio.
-If you're interested in collaboration or other inquiries, reach out to me!  robjsnow@gmail.com  :briefcase:
+To explore someof my projects that represent my journey in tech, [Jump to Showcase Projects](#showcase-projects).  
+You can reach me at robjsnow@gmail.com if you're interested in collaboration or have other inquiries.  :briefcase:
 
-#### Showcase Projects:
-[Aliens vs Robots](#aliens-vs-robots)
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
@@ -52,10 +52,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Aliens vs Robots
-[![Dancing Robot](https://github.com/robjsnow/avr/blob/main/screenshots/avrSS.jpg?raw=true)](https://yellow-water-02e94ce10.4.azurestaticapps.net/)
+#### Showcase Projects:
 
-**Demo:** [Here](https://yellow-water-02e94ce10.4.azurestaticapps.net/)  
+<a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">
+  <img src="https://github.com/robjsnow/avr/blob/main/screenshots/avrSS.jpg?raw=true" alt="Dancing Robot" width="300" />
+</a>
+
+
+**Project Name:** Aliens Vs Robots
+**Live Demo:** [Here](https://yellow-water-02e94ce10.4.azurestaticapps.net/)  
 **Source Code:** [Here](https://github.com/robjsnow/avr/)
 
 **Description:** This project is a React remake of a game designed by my wife, now optimized for mobile to entertain our 5-year-old. Hosted on Azure for seamless access.
