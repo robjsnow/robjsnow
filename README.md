@@ -54,12 +54,22 @@ Here are some ideas to get you started:
 
 #### Showcase Projects:
 
-<a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">
-  <img src="https://github.com/robjsnow/avr/blob/main/screenshots/avrSS.jpg?raw=true" alt="Dancing Robot" width="300" />
-</a>
-
+---
 
 **Project Name:** Aliens Vs Robots  
 **Live Demo:** [Here](https://yellow-water-02e94ce10.4.azurestaticapps.net/)  
 **Source Code:** [Here](https://github.com/robjsnow/avr/)  
-**Description:** This project, a React remake of a game I programmed and my wife designed, is now mobile-optimized for our 5-year-old's enjoyment. It's hosted on Azure for easy access.
+**Description:** Aliens vs Robots is a react game created especially for my five-year-old son to enjoy. This game highlights my expertise in frontend web development, specifically in React and JavaScript/JSX, with an emphasis on game development.  
+<div align="center"><a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">
+  <img src="https://github.com/robjsnow/avr/blob/main/screenshots/avrSS.jpg?raw=true" alt="Dancing Robot" width="300" />
+</a></div>
+
+---
+**Project Name:**  News Fusion  
+**Live Demo:**  [Here](https://newsfusion-3a88334147f8.herokuapp.com/)  
+**Source Code:**  [Request Code](mailto:robjsnow@gmailcom)  
+**Description:**  This project is a fullstack website I created to reinforce my understanding of various web development aspects, including APIs, databases, and authentication. It offers functionalities like user sign-up, login, profile editing, avatar uploading, and commenting on articles. Some of the technologies used in this project are JavaScript, EJS, HTML, CSS, NodeJS, Express, Azure (for storing avatars), and MongoDB
+<div align="center"<a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">
+  <img src="https://ashy-desert-0dbaf2a10.4.azurestaticapps.net/newsproject.png" alt="Dancing Robot" width="300" />
+</a></div>
+
