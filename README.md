@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 **Source Code:**  [Request Code](mailto:robjsnow@gmailcom)  
 **Description:**  This project is a fullstack website I created to reinforce my understanding of various web development aspects, including APIs, databases, and authentication. It offers functionalities like user sign-up, login, profile editing, avatar uploading, and commenting on articles. Some of the technologies used in this project are JavaScript, EJS, HTML, CSS, NodeJS, Express, Azure (for storing avatars), and MongoDB
 <div align="center"<a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">
-  <img src="https://ashy-desert-0dbaf2a10.4.azurestaticapps.net/newsproject.png" alt="Dancing Robot" width="300" />
+  <img src="https://ashy-desert-0dbaf2a10.4.azurestaticapps.net/news1.jpeg" alt="News Site" width="300" />
 </a></div>
 
