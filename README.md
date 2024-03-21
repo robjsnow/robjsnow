@@ -7,7 +7,7 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,7 +29,7 @@ Windows                  4 hrs 40 mins       ███████████�
 ```
 
 
- Last Updated on 20/03/2024 18:33:02 UTC
+ Last Updated on 21/03/2024 18:32:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
