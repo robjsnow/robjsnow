@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Project Name:** Cyberpunk Memory Card Game  (Developed in one hour challenge)
+**Project Name:** Cyberpunk Memory Card Game  (Developed in one hour challenge)  
 **Live Demo:** [Here](https://robjsnow.github.io/game-in-one-hour/)  
 **Source Code:** [Here](https://github.com/robjsnow/game-in-one-hour/)  
 **Description:** A small but fun one-hour speed challenge: this cyberpunk-themed memory game was built entirely from scratch, with no game engine or pre-prepared assets, just pure creativity and coding on the fly.  
