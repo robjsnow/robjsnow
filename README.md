@@ -65,6 +65,17 @@ Here are some ideas to get you started:
 
 ---
 
+Project Name: Hammurabi (Commodore 64 Classic Reimagined)  
+Live Demo: [Here](https://robjsnow.github.io/Hammurabi/)  
+Source Code: [Here](https://github.com/robjsnow/hammurabi)  
+Description: A web-based recreation of the first game I ever played on the Commodore 64. Hammurabi is a classic text-based strategy game that I reimagined for modern browsers. This project demonstrates my roots in programming and showcases my ability to bring nostalgic experiences to a new platform using modern web technologies.  
+
+<div align="center"><a href="https://robjsnow.github.io/Hammurabi/">
+<a href="https://ibb.co/9YR2cDJ"><img src="https://i.ibb.co/9YR2cDJ/Hammurabi.png" alt="Hammurabi" width"300"></a>
+</a></div>
+
+--
+
 **Project Name:** Aliens Vs Robots  
 **Live Demo:** [Here](https://yellow-water-02e94ce10.4.azurestaticapps.net/)  
 **Source Code:** [Here](https://github.com/robjsnow/avr/)  
