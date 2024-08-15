@@ -52,47 +52,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Showcase Projects:
 
-#### Showcase Projects:
-
----
-
-**Project Name:** Cyberpunk Memory Card Game  (Developed in one hour challenge)  
-**Live Demo:** [Here](https://robjsnow.github.io/game-in-one-hour/)  
-**Source Code:** [Here](https://github.com/robjsnow/game-in-one-hour/)  
-**Description:** A small but fun one-hour speed challenge: this cyberpunk-themed memory game was built entirely from scratch, with no game engine or pre-prepared assets, just pure creativity and coding on the fly.  
-<div align="center"><a href="https://robjsnow.github.io/game-in-one-hour/">
-<a href="https://ibb.co/GHLDzGT"><img src="https://i.ibb.co/fD5WjZv/game3.png" alt="game3" width="300"/>
-</a></div>
-
-
----
-
-Project Name: Hammurabi (Commodore 64 Classic Reimagined)  
-Live Demo: [Here](https://robjsnow.github.io/Hammurabi/)  
-Source Code: [Here](https://github.com/robjsnow/hammurabi)  
-Description: A web-based recreation of the first game I ever played on the Commodore 64. Hammurabi is a classic text-based strategy game that I reimagined for modern browsers. This project demonstrates my roots in programming and showcases my ability to bring nostalgic experiences to a new platform using modern web technologies.  
-
-<div align="center"><a href="https://robjsnow.github.io/Hammurabi/">
-<a href="https://ibb.co/9YR2cDJ"><img src="https://i.ibb.co/9YR2cDJ/Hammurabi.png" alt="Hammurabi" width"300"></a>
-</a></div>
-
---
-
-**Project Name:** Aliens Vs Robots  
-**Live Demo:** [Here](https://yellow-water-02e94ce10.4.azurestaticapps.net/)  
-**Source Code:** [Here](https://github.com/robjsnow/avr/)  
-**Description:** Aliens vs Robots is a react game created especially for my five-year-old son to enjoy. This game highlights my expertise in frontend web development, specifically in React and JavaScript/JSX, with an emphasis on game development.  
-<div align="center"><a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">
-  <img src="https://github.com/robjsnow/avr/blob/main/screenshots/avrSS.jpg?raw=true" alt="Dancing Robot" width="300" />
-</a></div>
-
----
-**Project Name:**  News Fusion  
-**Live Demo:**  [Here](https://newsfusion-3a88334147f8.herokuapp.com/)  
-**Source Code:**  [Request Code](mailto:robjsnow@gmailcom)  
-**Description:**  This project is a fullstack website I created to reinforce my understanding of various web development aspects, including APIs, databases, and authentication. It offers functionalities like user sign-up, login, profile editing, avatar uploading, and commenting on articles. Some of the technologies used in this project are JavaScript, EJS, HTML, CSS, NodeJS, Express, Azure (for storing avatars), and MongoDB
-<div align="center"<a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">
-  <img src="https://ashy-desert-0dbaf2a10.4.azurestaticapps.net/news1.jpeg" alt="News Site" width="300" />
-</a></div>
-
+<table>
+  <tr>
+    <td align="center" style="background-color: transparent;">
+      <h3>Cyberpunk Memory Card Game</h3>
+      <a href="https://robjsnow.github.io/game-in-one-hour/">
+        <img src="https://i.ibb.co/fD5WjZv/game3.png" alt="Cyberpunk Memory Card Game" width="250px">
+      </a>
+      <p><strong>Developed in one hour challenge</strong></p>
+      <p><a href="https://robjsnow.github.io/game-in-one-hour/">Live Demo</a> | <a href="https://github.com/robjsnow/game-in-one-hour/">Source Code</a></p>
+      <p>A small but fun one-hour speed challenge: this cyberpunk-themed memory game was built entirely from scratch, with no game engine or pre-prepared assets, just pure creativity and coding on the fly.</p>
+    </td>
+    <td align="center" style="background-color: transparent;">
+      <h3>Hammurabi</h3>
+      <a href="https://robjsnow.github.io/Hammurabi/">
+        <img src="https://i.ibb.co/9YR2cDJ/Hammurabi.png" alt="Hammurabi" width="250px">
+      </a>
+      <p><strong>Commodore 64 Classic Reimagined</strong></p>
+      <p><a href="https://robjsnow.github.io/Hammurabi/">Live Demo</a> | <a href="https://github.com/robjsnow/hammurabi">Source Code</a></p>
+      <p>A web-based recreation of the first game I ever played on the Commodore 64. Hammurabi is a classic text-based strategy game that I reimagined for modern browsers. This project demonstrates my roots in programming and showcases my ability to bring nostalgic experiences to a new platform using modern web technologies.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background-color: transparent;">
+      <h3>Aliens Vs Robots</h3>
+      <a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">
+        <img src="https://github.com/robjsnow/avr/blob/main/screenshots/avrSS.jpg?raw=true" alt="Dancing Robot" width="250px">
+      </a>
+      <p><strong>Created for my son</strong></p>
+      <p><a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">Live Demo</a> | <a href="https://github.com/robjsnow/avr/">Source Code</a></p>
+      <p>Aliens vs Robots is a react game created especially for my five-year-old son to enjoy. This game highlights my expertise in frontend web development, specifically in React and JavaScript/JSX, with an emphasis on game development.</p>
+    </td>
+    <td align="center" style="background-color: transparent;">
+      <h3>News Fusion</h3>
+      <a href="https://newsfusion-3a88334147f8.herokuapp.com/">
+        <img src="https://ashy-desert-0dbaf2a10.4.azurestaticapps.net/news1.jpeg" alt="News Fusion" width="250px">
+      </a>
+      <p><strong>Fullstack Development</strong></p>
+      <p><a href="https://newsfusion-3a88334147f8.herokuapp.com/">Live Demo</a> | <a href="mailto:robjsnow@gmail.com">Request Source Code</a></p>
+      <p>This project is a fullstack website I created to reinforce my understanding of various web development aspects, including APIs, databases, and authentication. It offers functionalities like user sign-up, login, profile editing, avatar uploading, and commenting on articles. Some of the technologies used in this project are JavaScript, EJS, HTML, CSS, NodeJS, Express, Azure, and MongoDB.</p>
+    </td>
+  </tr>
+</table>
