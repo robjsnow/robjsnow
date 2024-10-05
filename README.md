@@ -45,9 +45,18 @@ Here are some ideas to get you started:
 -->
 ## Showcase Projects:
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" style="background-color: transparent;">
+    <td align="center" width="50%">
+      <h3>Laughing Lemur</h3>
+      <a href="https://robjsnow.github.io/laughing-lemur/">
+        <img src="https://i.ibb.co/mbn5c8G/lemur.png" alt="Laughing Lemur" width="250px">
+      </a>
+      <p><strong>Fun Kids Joke Site</strong></p>
+      <p><a href="https://robjsnow.github.io/laughing-lemur/">Live Demo</a> | <a href="mailto:robjsnow@gmail.com">Request Source Code</a></p>
+        <p>The Laughing Lemur is a site I built for my two sons, who love jokes. When I couldn’t find a suitable one, I decided to create it myself. The backend runs on Django/Python with Postgres managing the database, and the frontend is built with React/JSX and CSS. This project combines fun for young users with a showcase of my full-stack web development skills.</p>
+    </td>
+    <td align="center" width="50%">
       <h3>Cyberpunk Memory Card Game</h3>
       <a href="https://robjsnow.github.io/game-in-one-hour/">
         <img src="https://i.ibb.co/fD5WjZv/game3.png" alt="Cyberpunk Memory Card Game" width="250px">
@@ -56,7 +65,9 @@ Here are some ideas to get you started:
       <p><a href="https://robjsnow.github.io/game-in-one-hour/">Live Demo</a> | <a href="https://github.com/robjsnow/game-in-one-hour/">Source Code</a></p>
       <p>A small but fun one-hour speed challenge: this cyberpunk-themed memory game was built entirely from scratch, with no game engine or pre-prepared assets, just pure creativity and coding on the fly.</p>
     </td>
-    <td align="center" style="background-color: transparent;">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <h3>Hammurabi</h3>
       <a href="https://robjsnow.github.io/Hammurabi/">
         <img src="https://i.ibb.co/9YR2cDJ/Hammurabi.png" alt="Hammurabi" width="250px">
@@ -65,9 +76,7 @@ Here are some ideas to get you started:
       <p><a href="https://robjsnow.github.io/Hammurabi/">Live Demo</a> | <a href="https://github.com/robjsnow/hammurabi">Source Code</a></p>
       <p>A web-based recreation of the first game I ever played on the Commodore 64. Hammurabi is a classic text-based strategy game that I reimagined for modern browsers. This project demonstrates my roots in programming and showcases my ability to bring nostalgic experiences to a new platform using modern web technologies.</p>
     </td>
-  </tr>
-  <tr>
-    <td align="center" style="background-color: transparent;">
+    <td align="center" width="50%">
       <h3>Aliens Vs Robots</h3>
       <a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">
         <img src="https://github.com/robjsnow/avr/blob/main/screenshots/avrSS.jpg?raw=true" alt="Dancing Robot" width="250px">
@@ -76,7 +85,9 @@ Here are some ideas to get you started:
       <p><a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">Live Demo</a> | <a href="https://github.com/robjsnow/avr/">Source Code</a></p>
       <p>Aliens vs Robots is a react game created especially for my five-year-old son to enjoy. This game highlights my expertise in frontend web development, specifically in React and JavaScript/JSX, with an emphasis on game development.</p>
     </td>
-    <td align="center" style="background-color: transparent;">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <h3>News Fusion</h3>
       <a href="https://newsfusion-3a88334147f8.herokuapp.com/">
         <img src="https://ashy-desert-0dbaf2a10.4.azurestaticapps.net/news1.jpeg" alt="News Fusion" width="250px">
@@ -85,5 +96,8 @@ Here are some ideas to get you started:
       <p><a href="https://newsfusion-3a88334147f8.herokuapp.com/">Live Demo</a> | <a href="mailto:robjsnow@gmail.com">Request Source Code</a></p>
       <p>This project is a fullstack website I created to reinforce my understanding of various web development aspects, including APIs, databases, and authentication. It offers functionalities like user sign-up, login, profile editing, avatar uploading, and commenting on articles. Some of the technologies used in this project are JavaScript, EJS, HTML, CSS, NodeJS, Express, Azure, and MongoDB.</p>
     </td>
+    <td align="center" width="50%"></td>
   </tr>
 </table>
+
+
