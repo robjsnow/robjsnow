@@ -58,11 +58,11 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="50%">
       <h3>Laughing Lemur</h3>
-      <a href="https://robjsnow.github.io/laughing-lemur/">
+      <a href="https://robjsnow.com/laugh/index.html">
         <img src="https://i.ibb.co/mbn5c8G/lemur.png" alt="Laughing Lemur" width="250px">
       </a>
       <p><strong>Fun Kids Joke Site</strong></p>
-      <p><a href="https://robjsnow.github.io/laughing-lemur/">Live Demo</a> | <a href="mailto:robjsnow@gmail.com">Request Source Code</a></p>
+      <p><a href="https://robjsnow.com/laugh/index.html">Live Demo</a> | <a href="mailto:robjsnow@gmail.com">Request Source Code</a></p>
         <p>Full-stack web development project I created for my sons, featuring a Django/Python backend, a Postgres database, and a React/JSX frontend.</p>
     </td>
     <td align="center" width="50%">
