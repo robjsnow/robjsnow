@@ -78,11 +78,11 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="50%">
       <h3>Hammurabi</h3>
-      <a href="https://robjsnow.github.io/Hammurabi/">
+      <a href="https://robjsnow.com/hammurabi/index.html">
         <img src="https://i.ibb.co/9YR2cDJ/Hammurabi.png" alt="Hammurabi" width="250px">
       </a>
       <p><strong>Commodore 64 Classic Reimagined</strong></p>
-      <p><a href="https://robjsnow.github.io/Hammurabi/">Live Demo</a> | <a href="https://github.com/robjsnow/hammurabi">Source Code</a></p>
+      <p><a href="https://robjsnow.com/hammurabi/index.html">Live Demo</a> | <a href="https://github.com/robjsnow/hammurabi">Source Code</a></p>
       <p>A web-based remake of Hammurabi, my first Commodore 64 game, showcasing my ability to modernize nostalgic games using modern web technologies.</p>
     </td>
     <td align="center" width="50%">
