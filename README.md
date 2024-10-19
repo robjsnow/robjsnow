@@ -67,11 +67,11 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="50%">
       <h3>Cyberpunk Memory Card Game</h3>
-      <a href="https://robjsnow.github.io/game-in-one-hour/">
+      <a href="https://robjsnow.com/cyberpunk/index.html">
         <img src="https://i.ibb.co/fD5WjZv/game3.png" alt="Cyberpunk Memory Card Game" width="250px">
       </a>
       <p><strong>Developed in one hour challenge</strong></p>
-      <p><a href="https://robjsnow.github.io/game-in-one-hour/">Live Demo</a> | <a href="https://github.com/robjsnow/game-in-one-hour/">Source Code</a></p>
+      <p><a href="https://robjsnow.com/cyberpunk/index.html">Live Demo</a> | <a href="https://github.com/robjsnow/game-in-one-hour/">Source Code</a></p>
       <p>A one-hour challenge I did to make cyberpunk-themed web game, built from scratch with no engine.</p>
     </td>
   </tr>
