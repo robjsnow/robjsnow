@@ -101,7 +101,7 @@ Here are some ideas to get you started:
         <img src="https://ashy-desert-0dbaf2a10.4.azurestaticapps.net/news1.jpeg" alt="News Fusion" width="250px">
       </a>
       <p><strong>Fullstack Development</strong></p>
-      <p><a href="https://robjsnow.com/avr/index.hml">Live Demo</a> | <a href="mailto:robjsnow@gmail.com">Request Source Code</a></p>
+      <p><a href="https://robjsnow.com/news">Live Demo</a> | <a href="mailto:robjsnow@gmail.com">Request Source Code</a></p>
       <p>A fullstack website built to strengthen my skills in APIs, databases, and authentication, featuring user sign-up, login, profile editing, avatar uploads, and article comments using JavaScript, EJS, NodeJS, Express, Azure, and MongoDB.</p>
     </td>
     <td align="center" width="50%"></td>
