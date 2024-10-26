@@ -86,7 +86,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="50%">
       <h3>Aliens Vs Robots</h3>
-      <a href="https://yellow-water-02e94ce10.4.azurestaticapps.net/">
+      <a href="https://robjsnow.com/avr/index.hml">
         <img src="https://github.com/robjsnow/avr/blob/main/screenshots/avrSS.jpg?raw=true" alt="Dancing Robot" width="250px">
       </a>
       <p><strong>Created for my son</strong></p>
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="50%">
       <h3>News Fusion</h3>
-      <a href="https://newsfusion-3a88334147f8.herokuapp.com/">
+      <a href="https://robjsnow.com/news">
         <img src="https://ashy-desert-0dbaf2a10.4.azurestaticapps.net/news1.jpeg" alt="News Fusion" width="250px">
       </a>
       <p><strong>Fullstack Development</strong></p>
