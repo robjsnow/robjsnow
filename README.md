@@ -6,7 +6,7 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,7 +25,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/11/2024 18:43:39 UTC
+ Last Updated on 28/11/2024 18:42:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
