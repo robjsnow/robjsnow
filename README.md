@@ -10,24 +10,20 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 ```text
 💬 Programming Languages: 
-TypeScript               37 mins             ████████████████████░░░░░   81.68 % 
-JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-schedlite-backend        43 mins             ███████████████████████░░   93.91 % 
-schedlite-frontend       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/04/2025 18:45:58 UTC
+ Last Updated on 17/04/2025 18:45:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
