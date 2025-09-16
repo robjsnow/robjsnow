@@ -6,24 +6,8 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 15/09/2025 18:45:16 UTC
+ Last Updated on 16/09/2025 18:44:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
