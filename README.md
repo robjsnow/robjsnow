@@ -10,20 +10,24 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 39 mins        ██████████████████░░░░░░░   72.44 % 
+Godot Resource           26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+GDScript3                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tokyogame                2 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/09/2025 18:46:15 UTC
+ Last Updated on 26/09/2025 18:38:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
