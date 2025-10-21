@@ -10,20 +10,23 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     14 mins             ██████████████████░░░░░░░   73.73 % 
+Other                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+NNC                      15 mins             ███████████████████░░░░░░   74.81 % 
+Unknown Project          5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/10/2025 18:41:21 UTC
+ Last Updated on 21/10/2025 18:40:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
