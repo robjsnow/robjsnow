@@ -10,20 +10,21 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               19 mins             ██████████████████████░░░   89.88 % 
+Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TextRPG                  22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/01/2026 18:42:13 UTC
+ Last Updated on 26/01/2026 18:44:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
