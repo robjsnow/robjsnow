@@ -10,20 +10,20 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 ```text
 💬 Programming Languages: 
-HTML                     3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yawn-site                3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/02/2026 18:47:33 UTC
+ Last Updated on 13/02/2026 18:45:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
