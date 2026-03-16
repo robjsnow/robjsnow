@@ -10,21 +10,23 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 ```text
 💬 Programming Languages: 
-Markdown                 28 mins             ████████████████████████░   96.40 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Markdown                 28 mins             ██████████████░░░░░░░░░░░   54.57 % 
+HTML                     22 mins             ███████████░░░░░░░░░░░░░░   43.39 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-through-the-static       29 mins             █████████████████████████   100.00 % 
+through-the-static       29 mins             ██████████████░░░░░░░░░░░   56.61 % 
+yipfox-landing           22 mins             ███████████░░░░░░░░░░░░░░   43.39 % 
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/03/2026 18:44:34 UTC
+ Last Updated on 16/03/2026 18:47:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
