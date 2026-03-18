@@ -10,24 +10,25 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 ```text
 💬 Programming Languages: 
-Markdown                 28 mins             ██████████████░░░░░░░░░░░   54.49 % 
-HTML                     22 mins             ███████████░░░░░░░░░░░░░░   43.33 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Markdown                 29 mins             ██████████████░░░░░░░░░░░   54.90 % 
+HTML                     22 mins             ███████████░░░░░░░░░░░░░░   42.94 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
 VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-through-the-static       29 mins             ██████████████░░░░░░░░░░░   56.52 % 
-yipfox-landing           23 mins             ███████████░░░░░░░░░░░░░░   43.48 % 
+through-the-static       29 mins             ██████████████░░░░░░░░░░░   56.01 % 
+yipfox-landing           23 mins             ███████████░░░░░░░░░░░░░░   43.09 % 
+LeagueCore               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
 Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2026 18:47:12 UTC
+ Last Updated on 18/03/2026 18:47:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
