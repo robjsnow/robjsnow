@@ -10,25 +10,25 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 27 mins        █████████████░░░░░░░░░░░░   51.59 % 
-TypeScript               41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-HTML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Markdown                 1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   39.77 % 
+JSON                     1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+TypeScript               44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+HTML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LeagueCore               2 hrs 27 mins       ██████████████████████░░░   86.46 % 
-yipfox-landing           23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+LeagueCore               3 hrs 17 mins       ██████████████████████░░░   89.56 % 
+yipfox-landing           23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/03/2026 18:45:39 UTC
+ Last Updated on 21/03/2026 18:44:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
