@@ -10,25 +10,25 @@ You can reach me at robjsnow@gmail.com if you're interested in collaboration or 
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 36 mins       ██████████████░░░░░░░░░░░   55.48 % 
-JSON                     1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-TypeScript               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Markdown                 1 hr 8 mins         █████████████░░░░░░░░░░░░   51.07 % 
+JSON                     47 mins             █████████░░░░░░░░░░░░░░░░   35.19 % 
+HTML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LeagueCore               3 hrs 17 mins       ██████████████████░░░░░░░   70.03 % 
-LC2                      1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-EBR                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+LC2                      1 hr 8 mins         █████████████░░░░░░░░░░░░   51.07 % 
+LeagueCore               50 mins             █████████░░░░░░░░░░░░░░░░   37.47 % 
+EBR                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 
 💻 Operating System: 
-Windows                  4 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2026 18:47:30 UTC
+ Last Updated on 27/03/2026 18:46:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
